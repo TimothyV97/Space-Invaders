@@ -1,0 +1,8 @@
+﻿  Space Invaders.cpp
+C:\Users\Cipher\source\repos\Space Invaders\Space Invaders.cpp(63,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cipher\source\repos\Space Invaders\Space Invaders.cpp(103,25): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cipher\source\repos\Space Invaders\Space Invaders.cpp(110,25): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cipher\source\repos\Space Invaders\Space Invaders.cpp(142,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cipher\source\repos\Space Invaders\Space Invaders.cpp(162,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Cipher\source\repos\Space Invaders\Space Invaders.cpp(189,45): warning C4018:  '<': signed/unsigned mismatch
+  Space Invaders.vcxproj -> C:\Users\Cipher\source\repos\Space Invaders\Debug\Space Invaders.exe
